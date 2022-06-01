@@ -1,4 +1,6 @@
-## Pokemon API
+# Pokemon API
+
+Deployed API: [https://jonlake-pokeapi.herokuapp.com/api/pokemon](https://jonlake-pokeapi.herokuapp.com/api/pokemon)
 
 Your task is to build and deploy an API to create, read, update, and delete Pokemon. The API should:
 
