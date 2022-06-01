@@ -20,6 +20,6 @@ public class Pokemon {
   @Column(name = "name")
   private String name;
 
-  @Column(name = "imageUrl")
+  @Column(name = "image_url")
   private String imageUrl;
 }
